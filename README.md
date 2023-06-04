@@ -1,3 +1,4 @@
 # TypeScript
 
-[TypeScript_Udemy](https://www.udemy.com/course/understanding-typescript-jp)やります
+[TypeScript_Udemy](https://www.udemy.com/course/understanding-typescript-jp)やります🙃
+
