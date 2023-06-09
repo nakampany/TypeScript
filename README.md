@@ -14,3 +14,13 @@ tsc app.ts
 
 npm start
 ```
+
+```
+// ファイルのルートフォルダーで
+tsc --init
+// tsconfig.jsonができる
+
+// コンパイルできる
+tsc
+tsc -w
+```

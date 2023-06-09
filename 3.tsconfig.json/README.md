@@ -60,5 +60,11 @@ app.js.mapが生成される
 ```
 /src
 
-### remove
-### 
+### removeComments
+- ビルド時のコメント削除
+
+### noEmit
+- jsファイルを出力しない
+
+### noEmitOnError
+- 何かコンパイルエラーがある場合は JavaScriptを出力しない
