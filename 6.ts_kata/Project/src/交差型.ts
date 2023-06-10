@@ -17,7 +17,6 @@ const e1: ElevatedEmployee = {
   startDate: new Date()
 }
 
-
 type Combinable = string | number;
 type Numeric = number | boolean;
 
