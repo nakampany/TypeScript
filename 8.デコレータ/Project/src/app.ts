@@ -19,7 +19,8 @@ function WithTemplate(template: string, hookId: string) {
   }
 }
 
-// @Logger("ログを出力 - person")
+// デコレータは下から上に実行される　WithTemplate -> Logger
+@Logger("ログを出力 - person")
 @WithTemplate("<h1>My Person Object</h1>", "app")
 class Person {
   name = "Quill"
