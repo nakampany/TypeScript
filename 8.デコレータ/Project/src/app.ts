@@ -35,8 +35,8 @@ const quill = new Person();
 console.log(quill);
 
 
-//  ----
-//  ----
+//  --------------------
+//  --------------------
 // バリデーションデコレータ
 interface ValidatorConfig {
   [property: string]: {
